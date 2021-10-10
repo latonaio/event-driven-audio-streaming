@@ -1,0 +1,6 @@
+tornado==6.1
+
+websocket-client~=0.57.0
+mysqlclient~=2.0.1
+
+git+ssh://git@bitbucket.org/latonaio/python-logging-library.git@develop#egg=custom_logger
