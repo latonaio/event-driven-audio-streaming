@@ -5,7 +5,7 @@
 
 ### Clone and Build   
 ```
-$ git clone git@bitbucket.org:latonaio/event-driven-audio-streaming.git
+$ git clone git@github.com:latonaio/event-driven-audio-streaming.git
 $ cd /path/to/event-driven-audio-streaming
 $ make docker-build
 ```
